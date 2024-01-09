@@ -1,6 +1,6 @@
 <h1>YelpCamp</h1>
 <br>
-YelpCamp is a campsite review application, inspired by Yelp, that allows users to explore, review, and add campgrounds. <br>
+YelpCamp is a campsite review application, inspired by Yelp, that allows users to explore, review, and add campgrounds on an interactive map. <br>
 <br>
 <h2>Features</h2> 
 <br>
