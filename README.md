@@ -59,5 +59,7 @@ MAPBOX_API_KEY=your_mapbox_api_key
 ```
 
 <h2>Usage</h2>
-1. Run the app.js file with node <br>
-2. Access the application via a web browser at http://localhost:3000/campgrounds.
+<ol>
+<li>Run the app.js file with node</li>
+<li>Access the application via a web browser at http://localhost:3000/campgrounds.</li>
+</ol>
